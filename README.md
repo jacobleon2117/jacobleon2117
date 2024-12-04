@@ -111,6 +111,24 @@ Website for searching recipes and adding recipes to your favorites page
 <h3> What I'm Working On <h3>
 </summary>
 </ul>
+<div class="working-on">
+<table>
+<tr>
+<td>Creating responsive and intuitive user interfaces with React</td>
+</tr>
+<tr>
+<td>Implementing clean, maintainable code practices</td>
+</tr>
+<tr>
+<td>Building a strong foundation in modern JavaScript</td>
+</tr>
+<tr>
+<td>Exploring advanced frontend development patterns</td>
+</tr>
+<tr>
+<td>Developing efficient backend solutions</td>
+</tr>
+<table>
 </div>
 </div>
 
@@ -172,12 +190,6 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 </div>
-
-- Creating responsive and intuitive user interfaces with React
-- Implementing clean, maintainable code practices
-- Building a strong foundation in modern JavaScript
-- Exploring advanced frontend development patterns
-- Developing efficient backend solutions
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
 
