@@ -9,7 +9,7 @@
 ---
 
 <div id="toc">
-<ul align="center" style="list-style: none">
+<ul align="center">
 <summary>
 <h3> About Me </h3>
 </summary>
@@ -27,7 +27,7 @@ mindset, I bring a unique perspective to software development.
 ---
 
 <div id="toc">
-<ul align="center" style="list-style: none">
+<ul align="center">
 <summary>
 <h3> Tech Stack </h3>
 </summary>
@@ -48,7 +48,7 @@ mindset, I bring a unique perspective to software development.
 ---
 
 <div id="toc">
-<ul align="center" style="list-style: none">
+<ul align="center">
 <summary>
 <h3> Current Projects <h3>
 </summary>
@@ -150,7 +150,7 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 <div id="toc">
-<ul align="center" style="list-style: none">
+<ul align="center">
 <summary>
 <h3> Currently Learning </h3>
 </summary>
@@ -165,7 +165,7 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 <div id="toc">
-<ul align="center" style="list-style: none">
+<ul align="center">
 <summary>
 <h3> Fun Facts <h3>
 </summary>
@@ -180,7 +180,7 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 <div id="toc">
-<ul align="center" style="list-style: none">
+<ul align="center">
 <summary>
 <h3> Connect With Me <h3>
 </summary>
