@@ -1,4 +1,4 @@
-<div id="toc" class="header-name">
+<div id="toc">
 <ul align="center" style="list-style: none">
 <summary>
 <h2> Hi, I'm Jacob <h2>
@@ -8,13 +8,14 @@
 
 ---
 
-<div id="toc" class="about-section">
+<div id="toc">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> About Me </h3>
 </summary>
 </ul>
 </div>
+
 <div align="left">
 <p>
 I'm a full-stack software engineering currently attending Atlas School in Tulsa,
@@ -25,7 +26,7 @@ mindset, I bring a unique perspective to software development.
 
 ---
 
-<div id="toc" class="tech-stack">
+<div id="toc">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Tech Stack </h3>
@@ -46,14 +47,15 @@ mindset, I bring a unique perspective to software development.
 
 ---
 
-<div id="toc" class="current-projects-section">
+<div id="toc">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Current Projects <h3>
 </summary>
 </ul>
 </div>
-<div align="center" class="projects">
+
+<div align="center">
 <table>
 <tr>
 <td>
@@ -114,10 +116,10 @@ Website for searching recipes and adding recipes to your favorites page
 </tr>
 </table>
 </div>
-</div>
 
 ---
 
+<div align="center">
 <table>
 <tr>
 <th> What I'm Working On </th>
@@ -147,7 +149,7 @@ Website for searching recipes and adding recipes to your favorites page
 
 ---
 
-<div id="toc" class="currently-learning-section">
+<div id="toc">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Currently Learning </h3>
@@ -162,7 +164,7 @@ Website for searching recipes and adding recipes to your favorites page
 
 ---
 
-<div id="toc" class="fun-facts-section">
+<div id="toc">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Fun Facts <h3>
@@ -177,7 +179,7 @@ Website for searching recipes and adding recipes to your favorites page
 
 ---
 
-<div id="toc" class="Connect-section">
+<div id="toc">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Connect With Me <h3>
