@@ -119,66 +119,6 @@ Website for searching recipes and adding recipes to your favorites page
 
 ---
 
-<div align="center">
-<table>
-<tr>
-<th> What I'm Working On </th>
-<th> Goals for 2025 </th>
-</tr>
-<tr>
-<td>Creating responsive and intuitive user interfaces with React</td>
-<td>Master TypeScript and implement it in new projects</td>
-</tr>
-<tr>
-<td>Implementing clean, maintainable code practices</td>
-<td>Build and deploy a full-stack application using Next.js</td>
-</tr>
-<tr>
-<td>Building a strong foundation in modern JavaScript</td>
-<td>Improve testing practices and implement automated testing</td>
-</tr>
-<tr>
-<td>Exploring advanced frontend development patterns</td>
-<td>Deepen understanding of web performance optimization</td>
-</tr>
-<tr>
-<td>Developing efficient backend solutions</td>
-<td>Maintain consistent GitHub activity with meaningful contributions</td>
-</tr>
-<table>
-
----
-
-<div id="toc">
-<ul align="center">
-<summary>
-<h3> Currently Learning </h3>
-</summary>
-</ul>
-</div>
-<div class="learning-stack">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
-</div>
-</div>
-
----
-
-<div id="toc">
-<ul align="center">
-<summary>
-<h3> Fun Facts <h3>
-</summary>
-</ul>
-</div>
-<div class="fun-facts">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
-
-</div>
-
----
-
 <div id="toc">
 <ul align="center">
 <summary>
@@ -186,12 +126,9 @@ Website for searching recipes and adding recipes to your favorites page
 </summary>
 </ul>
 </div>
-<div class="socils">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobleon02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobleon2117@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobleon.netlify.app/)
-
-</div>
 
 ---
