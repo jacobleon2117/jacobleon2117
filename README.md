@@ -108,7 +108,8 @@ Website for searching recipes and adding recipes to your favorites page
 <div class="working-on">
 <table>
 <tr>
-<td><h3><strong> What I'm Working On </strong></h3></td>
+<th> What I'm Working On </th>
+<th> Goals for 2025 </th>
 </tr>
 <tr>
 <td>Creating responsive and intuitive user interfaces with React</td>
