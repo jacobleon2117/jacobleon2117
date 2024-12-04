@@ -1,10 +1,8 @@
 <div id="about">
   <ul align="center" style="list-style: none">
-    <summary>
       <h2>
         Hi, I'm Jacob
       </h2>
-    </summary>
   </ul>
 </div>
 
