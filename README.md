@@ -125,11 +125,22 @@ Website for searching recipes and adding recipes to your favorites page
 <table>
 <tr>
 <td>Master TypeScript and implement it in new projects</td>
-<p><strong>Build and deploy a full-stack application using Next.js</strong></p>
-<p><strong>Improve testing practices and implement automated testing</strong></p>
-<p><strong>Deepen understanding of web performance optimization</strong></p>
-<p><strong>Maintain consistent GitHub activity with meaningful contributions</strong></p>
-</td>
+</tr>
+
+<tr>
+<td>Build and deploy a full-stack application using Next.js</td>
+</tr>
+
+<tr>
+<td>Improve testing practices and implement automated testing</td>
+</tr>
+
+<tr>
+<td>Deepen understanding of web performance optimization</td>
+</tr>
+
+<tr>
+<td>Maintain consistent GitHub activity with meaningful contributions</td>
 </tr>
 <table>
 </div>
