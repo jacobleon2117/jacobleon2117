@@ -7,6 +7,8 @@
 </div>
 </div>
 
+---
+
 <div id="toc" class="about-section">
 <ul align="left" style="list-style: none">
 <summary>
@@ -22,6 +24,8 @@ mindset, I bring a unique perspective to software development.
 </p>
 </div>
 
+---
+
 <div id="toc" class="currently-learning-section">
 <ul align="left" style="list-style: none">
 <summary>
@@ -34,6 +38,8 @@ mindset, I bring a unique perspective to software development.
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
 </div>
 </div>
+
+---
 
 <div id="toc" class="current-projects-section">
 <ul align="left" style="list-style: none">
