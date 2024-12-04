@@ -18,9 +18,9 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 
 ## Current Projects
 
-**Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
-**OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
-**Atlas School Projects:** Collaborating on various full-stack applications as part of my software engineering education
+- **Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
+- **OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
+- **Atlas School Projects:** Collaborating on various full-stack applications as part of my software engineering education
 
 ## What I'm Working On
 
