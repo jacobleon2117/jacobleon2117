@@ -33,8 +33,8 @@ mindset, I bring a unique perspective to software development.
 <table>
     <tr>
       <td>
-        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
-          <h3 style="color: #70a5fd;">🎓 Study Buddy</h3>
+        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+          <h3 style="color: #70a5fd;">Study Buddy</h3>
           <p>
           Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
           </p>
@@ -46,8 +46,8 @@ mindset, I bring a unique perspective to software development.
         </div>
       </td>
       <td>
-        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
-          <h3 style="color: #70a5fd;">🚨 OKTF-1 Scheduler</h3>
+        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+          <h3 style="color: #70a5fd;">OKTF-1 Scheduler</h3>
           <p>
           Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
           </p>
@@ -61,9 +61,8 @@ mindset, I bring a unique perspective to software development.
     </tr>
     <tr>
       <td>
-        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
-          <h3 style="color: #70a5fd;">📚 Atlas School Projects</h3>
-          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
+        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+          <h3 style="color: #70a5fd;">Atlas School Projects</h3>
           <p>
           Collaborating on various full-stack applications as part of my software engineering education
           </p>
@@ -79,7 +78,7 @@ mindset, I bring a unique perspective to software development.
           <h3 style="color: #70a5fd; font-size: 16px">3MEALS - Atlas Hacksprint</h3>
           <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; max-width: 100%;"/>
           <p>
-            Website for searchign recipes and adding recipes to your favritos page
+            Website for searching recipes and adding recipes to your favritos page
           </p>
           <p>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
