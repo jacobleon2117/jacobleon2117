@@ -117,34 +117,23 @@ Website for searching recipes and adding recipes to your favorites page
 </tr>
 <tr>
 <td>Implementing clean, maintainable code practices</td>
-</tr>
-<tr>
-<td>Building a strong foundation in modern JavaScript</td>
-</tr>
-<tr>
-<td>Exploring advanced frontend development patterns</td>
-</tr>
-<tr>
-<td>Developing efficient backend solutions</td>
-</tr>
-<table>
-</div>
+<td>Build and deploy a full-stack application using Next.js</td>
 
 </tr>
 <tr>
-<td>Master TypeScript and implement it in new projects</td>
-</tr>
-<tr>
-<td>Build and deploy a full-stack application using Next.js</td>
-</tr>
-<tr>
+<td>Building a strong foundation in modern JavaScript</td>
 <td>Improve testing practices and implement automated testing</td>
+
 </tr>
 <tr>
+<td>Exploring advanced frontend development patterns</td>
 <td>Deepen understanding of web performance optimization</td>
+
 </tr>
 <tr>
+<td>Developing efficient backend solutions</td>
 <td>Maintain consistent GitHub activity with meaningful contributions</td>
+
 </tr>
 <table>
 </div>
