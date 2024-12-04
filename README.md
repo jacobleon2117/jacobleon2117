@@ -124,7 +124,7 @@ Website for searching recipes and adding recipes to your favorites page
 <div class="goals">
 <table>
 <tr>
-<td style="border: none; width: 30%; padding: 10px;">
+<td>
 <div style="padding: 20px; border-radius: 6px;">
 
 Master TypeScript and implement it in new projects
