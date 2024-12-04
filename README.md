@@ -18,13 +18,9 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 
 ## Current Projects
 
-- **Digital Portfolio**: A dynamic portfolio website built with React and Tailwind CSS, showcasing my journey in web development
-- **Social Media Manager**: A ReactJS application to help small businesses manage their social media presence efficiently
-- **Atlas School Projects**: Collaborating on various full-stack applications as part of my software engineering education
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
+**Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
+**OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
+**Atlas School Projects:** Collaborating on various full-stack applications as part of my software engineering education
 
 ## What I'm Working On
 
@@ -41,6 +37,10 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 - Improve testing practices and implement automated testing
 - Deepen understanding of web performance optimization
 - Maintain consistent GitHub activity with meaningful contributions
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
 
 ## Fun Facts
 
