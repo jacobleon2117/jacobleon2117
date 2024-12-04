@@ -15,9 +15,9 @@
 </ul>
 </div>
 <div>
-
-<p>Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.</p>
-
+<p>
+I'm a full-stack software engineering currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
+</p>
 </div>
 
 <div id="toc" class="currently-learning-section">
