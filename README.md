@@ -108,8 +108,6 @@ Website for searching recipes and adding recipes to your favorites page
 <div class="working-on">
 <table>
 <tr>
-<td>
-<tr>
 <td><h3><strong> What I'm Working On </strong></h3></td>
 </tr>
 <tr>
@@ -132,11 +130,9 @@ Website for searching recipes and adding recipes to your favorites page
 
 <div class="goals">
 <table>
-
 <tr>
 <td><h3><strong> Goals for 2025 </strong></h3></td>
 </tr>
-
 <tr>
 <td>Master TypeScript and implement it in new projects</td>
 </tr>
