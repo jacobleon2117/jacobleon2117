@@ -19,7 +19,7 @@
 </div>
 
 <div id="toc">
-<div class="Currently-Learning-section">
+<div class="currently-learning-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Currently Learning </h3>
@@ -29,7 +29,7 @@
 </div>
 
 <div id="toc">
-<div class="Current-Projects-section">
+<div class="current-projects-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Current Projects <h3>
@@ -39,7 +39,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
+<div class="working-on-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> What I'm Working On <h3>
@@ -49,7 +49,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
+<div class="goals-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Goals for 2024 <h3>
@@ -59,17 +59,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
-<ul align="left" style="list-style: none">
-<summary>
-<h3> Goals for 2024 <h3>
-</summary>
-</ul>
-</div>
-</div>
-
-<div id="toc">
-<div class="about-section-header">
+<div class="top-languages-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Top Languages <h3>
@@ -79,7 +69,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
+<div class="fun-facts-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Fun Facts <h3>
@@ -88,8 +78,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="about-section-header">
+<div id="toc" class="Connect-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Connect With Me <h3>
