@@ -105,7 +105,6 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 </div>
 
-<div class="working-on">
 <table>
 <tr>
 <th> What I'm Working On </th>
@@ -118,25 +117,20 @@ Website for searching recipes and adding recipes to your favorites page
 <tr>
 <td>Implementing clean, maintainable code practices</td>
 <td>Build and deploy a full-stack application using Next.js</td>
-
 </tr>
 <tr>
 <td>Building a strong foundation in modern JavaScript</td>
 <td>Improve testing practices and implement automated testing</td>
-
 </tr>
 <tr>
 <td>Exploring advanced frontend development patterns</td>
 <td>Deepen understanding of web performance optimization</td>
-
 </tr>
 <tr>
 <td>Developing efficient backend solutions</td>
 <td>Maintain consistent GitHub activity with meaningful contributions</td>
-
 </tr>
 <table>
-</div>
 
 <div id="toc" class="top-languages-section">
 <ul align="left" style="list-style: none">
