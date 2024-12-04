@@ -32,8 +32,8 @@ mindset, I bring a unique perspective to software development.
 <div align="center" class="projects">
 <table>
 <tr>
-<td style="border: none; width: 30%; padding: 10px;">
-<div style="padding: 20px; border-radius: 6px;">
+<td>
+<div>
 <h3 style="color: #ffffff;">Study Buddy</h3>
 <p>
 Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
@@ -125,14 +125,11 @@ Website for searching recipes and adding recipes to your favorites page
 <table>
 <tr>
 <td>
-<div style="padding: 20px; border-radius: 6px;">
-
 Master TypeScript and implement it in new projects
 Build and deploy a full-stack application using Next.js
 Improve testing practices and implement automated testing
 Deepen understanding of web performance optimization
 Maintain consistent GitHub activity with meaningful contributions
-
 </td>
 </tr>
 <table>
