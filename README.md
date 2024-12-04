@@ -138,19 +138,6 @@ Website for searching recipes and adding recipes to your favorites page
 </tr>
 <table>
 
-<div id="toc" class="top-languages-section">
-<ul align="left" style="list-style: none">
-<summary>
-<h3> Top Languages <h3>
-</summary>
-</ul>
-<div class="top-languages">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
-
-</div>
-</div>
-
 ---
 
 <div id="toc" class="currently-learning-section">
@@ -182,6 +169,8 @@ Website for searching recipes and adding recipes to your favorites page
 > Entrepreneurial mindset with a passion for both business and coding
 
 > Constantly seeking ways to merge technology with traditional business solutions
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
 
 </div>
 
