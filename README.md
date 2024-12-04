@@ -105,6 +105,8 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 </div>
 
+---
+
 <table>
 <tr>
 <th> What I'm Working On </th>
