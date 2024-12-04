@@ -122,21 +122,17 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 <div class="goals">
-<table>
+<table style="width:100%">
 <tr>
 <td>
 <p><strong>Master TypeScript and implement it in new projects</strong></p>
-</td>
-<td>
 <p><strong>Build and deploy a full-stack application using Next.js</strong></p>
-</td>
 <p><strong>Improve testing practices and implement automated testing</strong></p>
 <p><strong>Deepen understanding of web performance optimization</strong></p>
 <p><strong>Maintain consistent GitHub activity with meaningful contributions</strong></p>
 </td>
 </tr>
 <table>
-
 </div>
 </div>
 
