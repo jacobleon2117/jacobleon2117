@@ -107,6 +107,20 @@ Website for searching recipes and adding recipes to your favorites page
 
 ---
 
+<div id="toc" class="currently-learning-section">
+<ul align="left" style="list-style: none">
+<summary>
+<h3> Currently Learning </h3>
+</summary>
+</ul>
+</div>
+<div class="learning-stack">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
+</div>
+</div>
+---
+
 <table>
 <tr>
 <th> What I'm Working On </th>
