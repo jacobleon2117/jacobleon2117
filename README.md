@@ -1,5 +1,4 @@
-<div id="toc">
-<div class="name-header">
+<div id="toc" class="header-name">
 <ul align="center" style="list-style: none">
 <summary>
 <h2> Hi, I'm Jacob <h2>
@@ -8,8 +7,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="about-section">
+<div id="toc" class="about-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> About Me </h3>
@@ -18,8 +16,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="currently-learning-section">
+<div id="toc" class="currently-learning-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Currently Learning </h3>
@@ -28,8 +25,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="current-projects-section">
+<div id="toc" class="current-projects-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Current Projects <h3>
@@ -38,8 +34,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="working-on-section">
+<div id="toc" class="working-on-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> What I'm Working On <h3>
@@ -48,8 +43,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="goals-section">
+<div id="toc" class="goals-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Goals for 2024 <h3>
@@ -58,8 +52,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="top-languages-section">
+<div id="toc" class="top-languages-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Top Languages <h3>
@@ -68,8 +61,7 @@
 </div>
 </div>
 
-<div id="toc">
-<div class="fun-facts-section">
+<div id="toc" class="fun-facts-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h3> Fun Facts <h3>
