@@ -141,9 +141,11 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 <div class="goals">
 <table>
+
 <tr>
-<td><h3><strong>Goals for 2025</strong></h3><td>
+<td><h3><strong>Goals for 2025</strong></h3></td>
 </tr>
+
 <tr>
 <td>Master TypeScript and implement it in new projects</td>
 </tr>
