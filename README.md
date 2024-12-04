@@ -119,6 +119,7 @@ Website for searching recipes and adding recipes to your favorites page
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
 </div>
 </div>
+
 ---
 
 <table>
