@@ -60,4 +60,4 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 
 ---
 
-⭐️ From [jacobleon2117](https://github.com/jacobleon2117)
+[jacobleon2117](https://github.com/jacobleon2117)
