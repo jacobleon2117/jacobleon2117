@@ -33,7 +33,7 @@ mindset, I bring a unique perspective to software development.
 <table>
     <tr>
       <td>
-        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; border: none; margin: 8px; min-width: 250px;">
           <h3 style="color: #70a5fd;">Study Buddy</h3>
           <p>
           Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
