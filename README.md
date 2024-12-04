@@ -1,4 +1,4 @@
-<div id="about" align="center">
+<div id="about" align="left">
   <h1>Hi, I'm Jacob</h1>
 </div>
 
@@ -19,7 +19,7 @@
   </p>
 </div>
 
-<div id="about" align="center">
+<div id="about" align="left">
   <h1>
     Currently Learning
   </h1>
