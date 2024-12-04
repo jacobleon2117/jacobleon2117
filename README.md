@@ -1,36 +1,38 @@
 <div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Hi, I'm Jacob
-      </h1>
-    </summary>
-  </ul>
+<div class="name-header-section">
+<ul align="center" style="list-style: none">
+<summary>
+<h1>Hi, I'm Jacob</h1>
+</summary>
+</ul>
+</div>
 </div>
 
 <div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        About Me
-      </h1>
-    </summary>
-    <p align="left">
-        Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
-    </p>
- </ul>
+<div class="about-section-header">
+<ul align="left" style="list-style: none">
+<summary>
+<h1>About Me</h1>
+</summary>
+</ul>
+</div>
+</div>
+
+<div id="toc">
+<div class="about-section">
+<p align="left">
+Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
+</p>
 </div>
 
 <div id="about" align="left">
- <summary>
-  <h1>
-    Currently Learning
-  </h1>
-    <div id="stack" align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
-         </summary>
-    </div>
+<summary>
+<h1>Currently Learning</h1>
+<div id="stack" align="center">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
+</summary>
+</div>
 </div>
 
 #### Current Projects
