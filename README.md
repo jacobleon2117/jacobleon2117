@@ -174,12 +174,14 @@ Website for searching recipes and adding recipes to your favorites page
 <h3> Fun Facts <h3>
 </summary>
 </ul>
-
+</div>
+<div class="fun-facts">
 > Proud owner of Leon's Mobile Detailing LLC
+
 > Entrepreneurial mindset with a passion for both business and coding
+
 > Constantly seeking ways to merge technology with traditional business solutions
 
-</div>
 </div>
 
 ---
