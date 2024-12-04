@@ -33,6 +33,7 @@ mindset, I bring a unique perspective to software development.
 <table>
 <tr>
 <td>
+<div>
 <h3>Study Buddy</h3>
 <p>
 Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
@@ -42,8 +43,10 @@ Leveraging AI and Full-Stack development to create an innovative application tha
 <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" height="22"/>
 </p>
 <p><strong>Status:</strong> In Development</p>
+</div>
 </td>
 <td>
+<div>
 <h3>OKTF-1 Scheduler</h3>
 <p>
 Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
