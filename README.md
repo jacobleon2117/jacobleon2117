@@ -127,8 +127,12 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobleon02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobleon2117@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobleon.netlify.app/)
+
+</div>
 
 ---
