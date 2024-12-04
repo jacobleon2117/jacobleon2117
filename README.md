@@ -26,6 +26,26 @@ mindset, I bring a unique perspective to software development.
 
 ---
 
+<div id="toc" class="tech-stack">
+<ul align="left" style="list-style: none">
+<summary>
+<h3> Tech Stack </h3>
+</summary>
+</ul>
+</div>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
+    <img src="https://img.shields.io/badge/HTML3-E34F26?style=for-the-badge&logo=html3&logoColor=white" alt="HTML3" height="28"/>
+    <img src="https://img.shields.io/badge/CSS3-1372B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28"/>
+  </p>
+</div>
+
+---
+
 <div id="toc" class="current-projects-section">
 <ul align="left" style="list-style: none">
 <summary>
@@ -94,19 +114,6 @@ Website for searching recipes and adding recipes to your favorites page
 </tr>
 </table>
 </div>
-</div>
-
----
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
-    <img src="https://img.shields.io/badge/HTML3-E34F26?style=for-the-badge&logo=html3&logoColor=white" alt="HTML3" height="28"/>
-    <img src="https://img.shields.io/badge/CSS3-1372B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28"/>
-  </p>
 </div>
 
 ---
