@@ -45,8 +45,11 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 ## Fun Facts
 
 > Proud owner of Leon's Mobile Detailing LLC
+
 > Entrepreneurial mindset with a passion for both business and coding
-> Constantly seeking ways to merge technology with traditional business solutions
+
+> Constantly seeking ways to merge technology with traditional
+> business solutions
 
 ## Connect With Me
 
