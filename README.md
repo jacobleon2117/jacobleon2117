@@ -30,62 +30,62 @@ mindset, I bring a unique perspective to software development.
 </ul>
 </div>
 <div align="center" class="projects">
-<table>
-    <tr>
-      <td>
-        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; border: none; margin: 8px; min-width: 250px;">
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr style="border: none;">
+      <td style="border: none; width: 50%; padding: 10px;">
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
           <h3 style="color: #70a5fd;">Study Buddy</h3>
           <p>
           Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
           </p>
           <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
-            <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" height="25"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="22"/>
+            <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" height="22"/>
           </p>
-          <p><strong>Status:</strong> In Development</p>
+          <p><strong>Status:</strong>In Development</p>
         </div>
       </td>
-      <td>
-        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+      <td style="border: none; width: 50%; padding: 10px;">
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
           <h3 style="color: #70a5fd;">OKTF-1 Scheduler</h3>
           <p>
           Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
           </p>
           <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
-            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" height="25"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="22"/>
+            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" height="22"/>
           </p>
-          <p><strong>Status:</strong> Planning Phase</p>
+          <p><strong>Status:</strong>Planning Phase</p>
         </div>
       </td>
     </tr>
-    <tr>
-      <td>
-        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+    <tr style="border: none;">
+      <td style="border: none; width: 50%; padding: 10px;">
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
           <h3 style="color: #70a5fd;">Atlas School Projects</h3>
           <p>
           Collaborating on various full-stack applications as part of my software engineering education
           </p>
           <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="22"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="22"/>
           </p>
-          <p><strong>Status:</strong> Ongoing</p>
+          <p><strong>Status:</strong>Ongoing</p>
         </div>
       </td>
-      <td>
-        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
-          <h3 style="color: #70a5fd; font-size: 16px">3MEALS - Atlas Hacksprint</h3>
-          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; max-width: 100%;"/>
+      <td style="border: none; width: 50%; padding: 10px;">
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
+          <h3 style="color: #70a5fd;">🍽️ Recipe Finder</h3>
+          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; width: 100%;"/>
           <p>
-            Website for searching recipes and adding recipes to your favritos page
+          Website for searching recipes and adding recipes to your favorites page
           </p>
           <p>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
-            <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" height="25"/>
+            <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" height="22"/>
           </p>
-          <p><strong>Status:</strong> Completed </p>
+          <p><strong>Status:</strong>Completed</p>
         </div>
       </td>
     </tr>
