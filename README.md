@@ -31,7 +31,7 @@ mindset, I bring a unique perspective to software development.
 </div>
 <div align="center" class="projects">
 <table>
-<tr style="border: none;">
+<tr>
 <td style="border: none; width: 30%; padding: 10px;">
 <div style="padding: 20px; border-radius: 6px;">
 <h3 style="color: #ffffff;">Study Buddy</h3>
@@ -123,7 +123,7 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 <div class="goals">
 <table>
-<tr style="border: none;">
+<tr>
 <td style="border: none; width: 30%; padding: 10px;">
 <div style="padding: 20px; border-radius: 6px;">
 
