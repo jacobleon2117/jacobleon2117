@@ -2,7 +2,7 @@
 <div class="name-header-section">
 <ul align="center" style="list-style: none">
 <summary>
-<h1> Hi, I'm Jacob <<h1>
+<h1> Hi, I'm Jacob <h1>
 </summary>
 </ul>
 </div>
