@@ -36,27 +36,25 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 - Exploring advanced frontend development patterns
 - Developing efficient backend solutions
 
+## 🎯 Goals for 2024
+
+- Master TypeScript and implement it in new projects
+- Build and deploy a full-stack application using Next.js
+- Improve testing practices and implement automated testing
+- Deepen understanding of web performance optimization
+- Maintain consistent GitHub activity with meaningful contributions
+
+## ⚡ Fun Facts
+
+- Proud owner of Leon's Mobile Detailing LLC
+- Entrepreneurial mindset with a passion for both business and coding
+- Constantly seeking ways to merge technology with traditional business solutions
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobleon02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobleon2117@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobleon.netlify.app/)
-
-## 🎯 Goals for 2024
-
-- Master TypeScript and implement it in existing projects
-- Build and deploy a full-stack application using Next.js
-- Contribute to open-source React projects
-- Improve testing practices and implement automated testing
-- Deepen understanding of web performance optimization
-- Maintain consistent GitHub activity with meaningful contributions
-- Balance software development with growing my detailing business
-
-## ⚡ Fun Facts
-
-- 🚗 Proud owner of Leon's Mobile Detailing LLC
-- 💼 Entrepreneurial mindset with a passion for both business and coding
-- 🎯 Constantly seeking ways to merge technology with traditional business solutions
 
 ---
 
