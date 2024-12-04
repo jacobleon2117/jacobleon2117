@@ -35,8 +35,9 @@ mindset, I bring a unique perspective to software development.
       <td>
         <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
           <h3 style="color: #70a5fd;">🎓 Study Buddy</h3>
-          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
-          <p>Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study</p>
+          <p>
+          Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
+          </p>
           <p>
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
             <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" height="25"/>
@@ -47,8 +48,9 @@ mindset, I bring a unique perspective to software development.
       <td>
         <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
           <h3 style="color: #70a5fd;">🚨 OKTF-1 Scheduler</h3>
-          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
-          <p>Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members</p>
+          <p>
+          Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
+          </p>
           <p>
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
             <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" height="25"/>
@@ -62,7 +64,9 @@ mindset, I bring a unique perspective to software development.
         <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
           <h3 style="color: #70a5fd;">📚 Atlas School Projects</h3>
           <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
-          <p>Collaborating on various full-stack applications as part of my software engineering education</p>
+          <p>
+          Collaborating on various full-stack applications as part of my software engineering education
+          </p>
           <p>
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
@@ -72,12 +76,13 @@ mindset, I bring a unique perspective to software development.
       </td>
       <td>
         <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
-          <h3 style="color: #70a5fd;">🔜 Coming Soon</h3>
-          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
-          <p>More exciting projects in the pipeline! Stay tuned for updates.</p>
+          <h3 style="color: #70a5fd;">3MEALS - Atlas Hacksprint</h3>
+          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px;"/>
+          <p>Website for searchign recipes and adding recipes to your favritos page</p>
           <p>
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25"/>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="25"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
+            <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" height="25"/>
           </p>
           <p><strong>Status:</strong> Future Project</p>
         </div>
@@ -86,7 +91,6 @@ mindset, I bring a unique perspective to software development.
   </table>
 </div>
 </div>
-
 
 <div id="toc" class="currently-learning-section">
 <ul align="left" style="list-style: none">
