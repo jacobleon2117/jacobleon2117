@@ -134,5 +134,3 @@ Website for searching recipes and adding recipes to your favorites page
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobleon.netlify.app/)
 
 </div>
-
----
