@@ -45,9 +45,13 @@ mindset, I bring a unique perspective to software development.
 </summary>
 </ul>
 </div>
-<div class="learning-stack">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
+<div align="center">
+  <a href="https://github.com/yourusername/study-buddy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=study-buddy&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/oktf-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=oktf-1&theme=radical" />
+  </a>
 </div>
 </div>
 
