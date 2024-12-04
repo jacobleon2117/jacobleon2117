@@ -29,31 +29,64 @@ mindset, I bring a unique perspective to software development.
 </summary>
 </ul>
 </div>
-<dive align="center" class="projects">
+<div align="center" class="projects">
 <table>
     <tr>
       <td>
-        <strong>Study Buddy</strong>
-        <p>
-        Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
-        </p>
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
+          <h3 style="color: #70a5fd;">🎓 Study Buddy</h3>
+          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
+          <p>Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
+            <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" height="25"/>
+          </p>
+          <p><strong>Status:</strong> In Development</p>
+        </div>
       </td>
       <td>
-        <strong>OKTF-1 Scheduler</strong>
-        <p>
-        Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
-        </p>
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
+          <h3 style="color: #70a5fd;">🚨 OKTF-1 Scheduler</h3>
+          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
+          <p>Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
+            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" height="25"/>
+          </p>
+          <p><strong>Status:</strong> Planning Phase</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
+          <h3 style="color: #70a5fd;">📚 Atlas School Projects</h3>
+          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
+          <p>Collaborating on various full-stack applications as part of my software engineering education</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="25"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
+          </p>
+          <p><strong>Status:</strong> Ongoing</p>
+        </div>
       </td>
       <td>
-        <strong>Atlas Projects</strong>
-        <p>
-        Collaborating on various full-stack applications as part of my software engineering education
-        </p>
+        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
+          <h3 style="color: #70a5fd;">🔜 Coming Soon</h3>
+          <img src="/api/placeholder/600/200" alt="Project Preview" style="border-radius: 4px;"/>
+          <p>More exciting projects in the pipeline! Stay tuned for updates.</p>
+          <p>
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="25"/>
+          </p>
+          <p><strong>Status:</strong> Future Project</p>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 </div>
+
 
 <div id="toc" class="currently-learning-section">
 <ul align="left" style="list-style: none">
