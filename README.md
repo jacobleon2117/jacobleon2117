@@ -1,30 +1,24 @@
-<div id="about">
-  <ul align="center" style="list-style: none">
-      <h1>
-        Hi, I'm Jacob
-      </h1>
-  </ul>
+<div id="about" align="center">
+  <h1>Hi, I'm Jacob</h1>
 </div>
 
-<div id="stack">
-<ul align="center" style="list-style: none">
-
-[![React](https://custom-icon-badges.demolab.com/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</ul>
+<div id="stack" align="center">
+  <p>
+    <a href="https://reactjs.org">
+      <img src="https://custom-icon-badges.demolab.com/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    </a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  </p>
 </div>
 
-<div id="about">
-  <ul align="left" style="list-style: none">
-
-Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
-
-</div>
+<div id="description">
+  <p align="left">
+    Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
+  </p>
 </div>
 
 #### Currently Learning
