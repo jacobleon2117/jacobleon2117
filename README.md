@@ -15,11 +15,13 @@
 </summary>
 </ul>
 </div>
+<div align="left">
 <p>
 I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 expected to graduate in April 2023. With my entrepreneurial spirit and creative 
 mindset, I bring a unique perspective to software development.
 </p>
+</div>
 
 ---
 
@@ -30,6 +32,7 @@ mindset, I bring a unique perspective to software development.
 </summary>
 </ul>
 </div>
+
 <div align="left">
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
