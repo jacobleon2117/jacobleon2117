@@ -1,5 +1,5 @@
 <div id="toc">
-  <ul align="left" style="list-style: none">
+  <ul align="center" style="list-style: none">
     <summary>
       <h1>
         Hi, I'm Jacob
@@ -11,13 +11,13 @@
 <br>
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         About Me
       </h1>
     </summary>
-    <p align="center">
+    <p align="left">
         Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
     </p>
  </ul>
