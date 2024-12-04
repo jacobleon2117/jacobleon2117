@@ -1,6 +1,6 @@
-# Hi there, I'm Jacob Leon
+### Hi there, I'm Jacob Leon
 
-## About Me
+#### About Me
 
 Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
 
@@ -11,12 +11,12 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## Currently Learning
+#### Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## Current Projects
+#### Current Projects
 
 - **Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
 - **OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
@@ -44,9 +44,9 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 
 ## Fun Facts
 
-- Proud owner of Leon's Mobile Detailing LLC
-- Entrepreneurial mindset with a passion for both business and coding
-- Constantly seeking ways to merge technology with traditional business solutions
+> Proud owner of Leon's Mobile Detailing LLC
+> Entrepreneurial mindset with a passion for both business and coding
+> Constantly seeking ways to merge technology with traditional business solutions
 
 ## Connect With Me
 
