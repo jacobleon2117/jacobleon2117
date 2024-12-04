@@ -176,6 +176,7 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 <div class="fun-facts">
+
 > Proud owner of Leon's Mobile Detailing LLC
 
 > Entrepreneurial mindset with a passion for both business and coding
