@@ -122,7 +122,7 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 <div class="goals">
-<table style="width:100%">
+<table>
 <tr>
 <td>
 <p><strong>Master TypeScript and implement it in new projects</strong></p>
