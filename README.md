@@ -1,5 +1,5 @@
 <div id="toc">
-<div class="name-header-section">
+<div class="name-header">
 <ul align="center" style="list-style: none">
 <summary>
 <h1> Hi, I'm Jacob <h1>
@@ -9,7 +9,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
+<div class="about-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h2> About Me </h2>
@@ -19,7 +19,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
+<div class="Currently-Learning-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h2> Currently Learning </h2>
@@ -29,7 +29,7 @@
 </div>
 
 <div id="toc">
-<div class="about-section-header">
+<div class="Current-Projects-section">
 <ul align="left" style="list-style: none">
 <summary>
 <h2> Current Projects <h2>
