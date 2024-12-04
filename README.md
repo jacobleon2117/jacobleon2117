@@ -2,7 +2,8 @@
     <ul align="left" style="list-style: none">
         <summary>
             <h1>
-                Hi, I'm Jacob
+            Hi, I'm Jacob
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
             </h1>
         </summary>
     </ul>
