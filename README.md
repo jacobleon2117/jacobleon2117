@@ -22,9 +22,11 @@
 </div>
 
 <div id="about">
+  <ul align="left" style="list-style: none">
 
 Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
 
+</div>
 </div>
 
 #### Currently Learning
