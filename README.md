@@ -4,6 +4,8 @@
 
 Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
 
+<img src="PUT THE LINK HERE">
+
 [![React](https://custom-icon-badges.demolab.com/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,3 +59,12 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 ---
 
 [jacobleon2117](https://github.com/jacobleon2117)
+
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="30">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="30">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="30">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="30">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" height="30">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vite/vite3.svg" height="30">
+</p>
