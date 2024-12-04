@@ -76,7 +76,6 @@ mindset, I bring a unique perspective to software development.
       <td style="border: none; width: 50%; padding: 10px;">
         <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
           <h3 style="color: #70a5fd;">🍽️ Recipe Finder</h3>
-          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; width: 100%;"/>
           <p>
           Website for searching recipes and adding recipes to your favorites page
           </p>
