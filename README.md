@@ -75,9 +75,9 @@ mindset, I bring a unique perspective to software development.
         </div>
       </td>
       <td>
-        <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
-          <h3 style="color: #70a5fd;">3MEALS - Atlas Hacksprint</h3>
-          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; max-width: 50%;"/>
+        <div style="background: #1a1b27; padding: 15px; border-radius: 6px; margin: 8px; min-width: 250px;">
+          <h3 style="color: #70a5fd; font-size: 16px">3MEALS - Atlas Hacksprint</h3>
+          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; max-width: 100%;"/>
           <p>Leveraging AI and Full-Stack development to create an innovative application that transforms the w"/>
           <p>Website for searchign recipes and adding recipes to your favritos page</p>
           <p>
@@ -85,7 +85,7 @@ mindset, I bring a unique perspective to software development.
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
             <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" height="25"/>
           </p>
-          <p><strong>Status:</strong> Future Project</p>
+          <p><strong>Status:</strong> Completed </p>
         </div>
       </td>
     </tr>
