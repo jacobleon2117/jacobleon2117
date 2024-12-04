@@ -1,4 +1,4 @@
-<div id="toc">
+<div id="about">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
@@ -21,9 +21,11 @@
 </ul>
 </div>
 
-#### About Me
+<div id="about">
 
 Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
+
+</div>
 
 #### Currently Learning
 
