@@ -14,6 +14,10 @@
 </summary>
 </ul>
 </div>
+<div>
+
+<p>Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.</p>
+
 </div>
 
 <div id="toc" class="currently-learning-section">
@@ -79,7 +83,6 @@
 </div>
 </div>
 
-<!--
 <div id="toc">
 <div class="about-section">
 <ul align="left" style="list-style: none">
@@ -139,4 +142,3 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28"/>
   </p>
 </div>
-->
