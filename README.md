@@ -1,5 +1,5 @@
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         Hi, I'm Jacob
