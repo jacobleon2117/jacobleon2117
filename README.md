@@ -33,8 +33,7 @@ mindset, I bring a unique perspective to software development.
 <table>
 <tr>
 <td>
-<div>
-<h3 style="color: #ffffff;">Study Buddy</h3>
+<h3>Study Buddy</h3>
 <p>
 Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
 </p>
@@ -43,11 +42,9 @@ Leveraging AI and Full-Stack development to create an innovative application tha
 <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI" height="22"/>
 </p>
 <p><strong>Status:</strong> In Development</p>
-</div>
 </td>
-<td style="border: none; width: 30%; padding: 10px;">
-<div style="padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a3fd;">OKTF-1 Scheduler</h3>
+<td>
+<h3>OKTF-1 Scheduler</h3>
 <p>
 Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
 </p>
@@ -59,10 +56,10 @@ Designing and developing a custom scheduling solution for Oklahoma Task Force 1'
 </div>
 </td>
 </tr>
-<tr style="border: none;">
-<td style="border: none; width: 30%; padding: 10px;">
-<div style="padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a3fd;">Atlas School Projects</h3>
+<tr>
+<td>
+<div>
+<h3>Atlas School Projects</h3>
 <p>
 Collaborating on various full-stack applications as part of my software engineering education
 </p>
@@ -73,9 +70,9 @@ Collaborating on various full-stack applications as part of my software engineer
 <p><strong>Status:</strong> Ongoing</p>
 </div>
 </td>
-<td style="border: none; width: 30%; padding: 10px;">
-<div style="padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a3fd;">3MEALS</h3>
+<td>
+<div>
+<h3>3MEALS</h3>
 <p>
 Website for searching recipes and adding recipes to your favorites page
 </p>
