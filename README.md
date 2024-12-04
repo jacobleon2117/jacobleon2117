@@ -32,7 +32,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> Current Projects <<h2>
+<h2> Current Projects <h2>
 </summary>
 </ul>
 </div>
@@ -42,7 +42,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> What I'm Working On <<h2>
+<h2> What I'm Working On <h2>
 </summary>
 </ul>
 </div>
@@ -52,7 +52,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> Goals for 2024 <<h2>
+<h2> Goals for 2024 <h2>
 </summary>
 </ul>
 </div>
@@ -62,7 +62,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> Goals for 2024 <<h2>
+<h2> Goals for 2024 <h2>
 </summary>
 </ul>
 </div>
@@ -72,7 +72,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> Top Languages <<h2>
+<h2> Top Languages <h2>
 </summary>
 </ul>
 </div>
@@ -82,7 +82,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> Fun Facts <<h2>
+<h2> Fun Facts <h2>
 </summary>
 </ul>
 </div>
@@ -92,7 +92,7 @@
 <div class="about-section-header">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> Connect With Me <<h2>
+<h2> Connect With Me <h2>
 </summary>
 </ul>
 </div>
