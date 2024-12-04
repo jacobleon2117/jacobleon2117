@@ -12,7 +12,7 @@
 <div class="about-section">
 <ul align="left" style="list-style: none">
 <summary>
-<h2> About Me </h2>
+<h3> About Me </h3>
 </summary>
 </ul>
 </div>
