@@ -5,7 +5,6 @@
 </summary>
 </ul>
 </div>
-</div>
 
 ---
 
@@ -16,13 +15,11 @@
 </summary>
 </ul>
 </div>
-<div>
 <p>
 I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 expected to graduate in April 2023. With my entrepreneurial spirit and creative 
 mindset, I bring a unique perspective to software development.
 </p>
-</div>
 
 ---
 
