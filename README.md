@@ -26,7 +26,7 @@
         About Me
       </h1>
     </summary>
-    <p align="left">
+    <p align="center">
         Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
     </p>
  </ul>
