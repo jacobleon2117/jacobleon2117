@@ -143,6 +143,7 @@ Website for searching recipes and adding recipes to your favorites page
 <table>
 <tr>
 <td><strong>Goals for 2025</strong><td>
+</tr>
 <tr>
 <td>Master TypeScript and implement it in new projects</td>
 </tr>
