@@ -113,6 +113,19 @@ Website for searching recipes and adding recipes to your favorites page
 
 ---
 
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
+    <img src="https://img.shields.io/badge/HTML3-E34F26?style=for-the-badge&logo=html3&logoColor=white" alt="HTML3" height="28"/>
+    <img src="https://img.shields.io/badge/CSS3-1372B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28"/>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28"/>
+  </p>
+</div>
+
+---
+
 <table>
 <tr>
 <th> What I'm Working On </th>
@@ -171,8 +184,6 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
-
 > Proud owner of Leon's Mobile Detailing LLC
 
 > Entrepreneurial mindset with a passion for both business and coding
@@ -186,14 +197,3 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 [jacobleon2117](https://github.com/jacobleon2117)
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
-    <img src="https://img.shields.io/badge/HTML3-E34F26?style=for-the-badge&logo=html3&logoColor=white" alt="HTML3" height="28"/>
-    <img src="https://img.shields.io/badge/CSS3-1372B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28"/>
-  </p>
-</div>
