@@ -115,6 +115,9 @@ Website for searching recipes and adding recipes to your favorites page
 <div class="working-on">
 <table>
 <tr>
+<td><h3><strong> What I'm Working On </strong></h3></td>
+</tr>
+<tr>
 <td>Creating responsive and intuitive user interfaces with React</td>
 </tr>
 <tr>
@@ -143,7 +146,7 @@ Website for searching recipes and adding recipes to your favorites page
 <table>
 
 <tr>
-<td><h3><strong>Goals for 2025</strong></h3></td>
+<td><h3><strong> Goals for 2025 </strong></h3></td>
 </tr>
 
 <tr>
