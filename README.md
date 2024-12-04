@@ -21,10 +21,12 @@
 
 <div id="about" align="center">
   <h1>
-  Currently Learning
-</h1>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="TypeScript" height="28"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Next.js" height="28"/>
+    Currently Learning
+  </h1>
+    <div id="stack" align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
+    </div>
 </div>
 
 #### Current Projects
