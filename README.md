@@ -126,19 +126,15 @@ Website for searching recipes and adding recipes to your favorites page
 <tr>
 <td>Master TypeScript and implement it in new projects</td>
 </tr>
-
 <tr>
 <td>Build and deploy a full-stack application using Next.js</td>
 </tr>
-
 <tr>
 <td>Improve testing practices and implement automated testing</td>
 </tr>
-
 <tr>
 <td>Deepen understanding of web performance optimization</td>
 </tr>
-
 <tr>
 <td>Maintain consistent GitHub activity with meaningful contributions</td>
 </tr>
@@ -152,6 +148,10 @@ Website for searching recipes and adding recipes to your favorites page
 <h3> Top Languages <h3>
 </summary>
 </ul>
+<div class="top-languages">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
+
 </div>
 </div>
 
@@ -178,12 +178,6 @@ Website for searching recipes and adding recipes to your favorites page
 - Building a strong foundation in modern JavaScript
 - Exploring advanced frontend development patterns
 - Developing efficient backend solutions
-
-- Master TypeScript and implement it in new projects
-- Build and deploy a full-stack application using Next.js
-- Improve testing practices and implement automated testing
-- Deepen understanding of web performance optimization
-- Maintain consistent GitHub activity with meaningful contributions
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
 
