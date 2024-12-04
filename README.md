@@ -131,7 +131,6 @@ Website for searching recipes and adding recipes to your favorites page
 </tr>
 <table>
 </div>
-</div>
 
 <div id="toc" class="goals-section">
 <ul align="left" style="list-style: none">
@@ -158,7 +157,6 @@ Website for searching recipes and adding recipes to your favorites page
 <td>Maintain consistent GitHub activity with meaningful contributions</td>
 </tr>
 <table>
-</div>
 </div>
 
 <div id="toc" class="top-languages-section">
