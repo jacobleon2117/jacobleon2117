@@ -1,9 +1,11 @@
 <div id="about">
     <ul align="left" style="list-style: none">
         <summary>
-  <h1>Hi, I'm Jacob</h1>
-  </summary>
-  </div>
+            <h1>
+                Hi, I'm Jacob
+            </h1>
+        </summary>
+    </ul>
 </div>
 
 <div align="center">
