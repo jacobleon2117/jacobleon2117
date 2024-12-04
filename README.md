@@ -30,10 +30,10 @@ mindset, I bring a unique perspective to software development.
 </ul>
 </div>
 <div align="center" class="projects">
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table>
 <tr style="border: none;">
 <td style="border: none; width: 30%; padding: 10px;">
-<div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
+<div style="padding: 20px; border-radius: 6px;">
 <h3 style="color: #ffffff;">Study Buddy</h3>
 <p>
 Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
@@ -46,7 +46,7 @@ Leveraging AI and Full-Stack development to create an innovative application tha
 </div>
 </td>
 <td style="border: none; width: 30%; padding: 10px;">
-<div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
+<div style="padding: 20px; border-radius: 6px;">
 <h3 style="color: #70a3fd;">OKTF-1 Scheduler</h3>
 <p>
 Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
@@ -61,7 +61,7 @@ Designing and developing a custom scheduling solution for Oklahoma Task Force 1'
 </tr>
 <tr style="border: none;">
 <td style="border: none; width: 30%; padding: 10px;">
-<div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
+<div style="padding: 20px; border-radius: 6px;">
 <h3 style="color: #70a3fd;">Atlas School Projects</h3>
 <p>
 Collaborating on various full-stack applications as part of my software engineering education
@@ -74,7 +74,7 @@ Collaborating on various full-stack applications as part of my software engineer
 </div>
 </td>
 <td style="border: none; width: 30%; padding: 10px;">
-<div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
+<div style="padding: 20px; border-radius: 6px;">
 <h3 style="color: #70a3fd;">3MEALS</h3>
 <p>
 Website for searching recipes and adding recipes to your favorites page
@@ -122,10 +122,10 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 <div class="goals">
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table>
 <tr style="border: none;">
 <td style="border: none; width: 30%; padding: 10px;">
-<div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
+<div style="padding: 20px; border-radius: 6px;">
 
 Master TypeScript and implement it in new projects
 Build and deploy a full-stack application using Next.js
