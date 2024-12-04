@@ -126,7 +126,7 @@ Website for searching recipes and adding recipes to your favorites page
 <tr>
 <td>
 <div>
-Master TypeScript and implement it in new projects
+<h4><strong>Master TypeScript and implement it in new projects</strong></h4>
 </div>
 Build and deploy a full-stack application using Next.js
 Improve testing practices and implement automated testing
