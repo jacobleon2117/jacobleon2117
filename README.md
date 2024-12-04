@@ -111,6 +111,7 @@ Website for searching recipes and adding recipes to your favorites page
 <h3> What I'm Working On <h3>
 </summary>
 </ul>
+</div>
 <div class="working-on">
 <table>
 <tr>
