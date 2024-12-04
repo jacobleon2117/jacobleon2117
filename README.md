@@ -77,7 +77,8 @@ mindset, I bring a unique perspective to software development.
       <td>
         <div style="background: #1a1b27; padding: 20px; border-radius: 6px; margin: 10px; min-width: 300px;">
           <h3 style="color: #70a5fd;">3MEALS - Atlas Hacksprint</h3>
-          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px;"/>
+          <img src="/public/images/homepage.png" alt="Project Preview" style="border-radius: 4px; max-width: 50%;"/>
+          <p>Leveraging AI and Full-Stack development to create an innovative application that transforms the w"/>
           <p>Website for searchign recipes and adding recipes to your favritos page</p>
           <p>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
