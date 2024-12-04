@@ -17,7 +17,7 @@
 <div>
 <p>
 I'm a full-stack software engineering currently attending Atlas School in Tulsa,
-expected to graduate in April 2025. With my entrepreneurial spirit and creative 
+expected to graduate in April 2023. With my entrepreneurial spirit and creative 
 mindset, I bring a unique perspective to software development.
 </p>
 </div>
@@ -32,9 +32,9 @@ mindset, I bring a unique perspective to software development.
 <div align="center" class="projects">
 <table style="border: none; border-collapse: collapse; width: 100%;">
 <tr style="border: none;">
-<td style="border: none; width: 50%; padding: 10px;">
+<td style="border: none; width: 30%; padding: 10px;">
 <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a5fd;">Study Buddy</h3>
+<h3 style="color: #70a3fd;">Study Buddy</h3>
 <p>
 Leveraging AI and Full-Stack development to create an innovative application that transforms the way students study
 </p>
@@ -45,9 +45,9 @@ Leveraging AI and Full-Stack development to create an innovative application tha
 <p><strong>Status:</strong> In Development</p>
 </div>
 </td>
-<td style="border: none; width: 50%; padding: 10px;">
+<td style="border: none; width: 30%; padding: 10px;">
 <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a5fd;">OKTF-1 Scheduler</h3>
+<h3 style="color: #70a3fd;">OKTF-1 Scheduler</h3>
 <p>
 Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
 </p>
@@ -60,9 +60,9 @@ Designing and developing a custom scheduling solution for Oklahoma Task Force 1'
 </td>
 </tr>
 <tr style="border: none;">
-<td style="border: none; width: 50%; padding: 10px;">
+<td style="border: none; width: 30%; padding: 10px;">
 <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a5fd;">Atlas School Projects</h3>
+<h3 style="color: #70a3fd;">Atlas School Projects</h3>
 <p>
 Collaborating on various full-stack applications as part of my software engineering education
 </p>
@@ -73,15 +73,15 @@ Collaborating on various full-stack applications as part of my software engineer
 <p><strong>Status:</strong> Ongoing</p>
 </div>
 </td>
-<td style="border: none; width: 50%; padding: 10px;">
+<td style="border: none; width: 30%; padding: 10px;">
 <div style="background: #1a1b27; padding: 20px; border-radius: 6px;">
-<h3 style="color: #70a5fd;">3MEALS</h3>
+<h3 style="color: #70a3fd;">3MEALS</h3>
 <p>
 Website for searching recipes and adding recipes to your favorites page
 </p>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"height="28"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
+<img src="https://img.shields.io/badge/CSS3-1372B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
 <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" height="22"/>
 </p>
 <p><strong>Status:</strong> Completed</p>
@@ -122,11 +122,11 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 <div class="goals">
-<h5>Master TypeScript and implement it in new projects</h5>
-<h5>Build and deploy a full-stack application using Next.js</h5>
-<h5>Improve testing practices and implement automated testing</h5>
-<h5>Deepen understanding of web performance optimization</h5>
-<h5>Maintain consistent GitHub activity with meaningful contributions</h5>
+<h3>Master TypeScript and implement it in new projects</h3>
+<h3>Build and deploy a full-stack application using Next.js</h3>
+<h3>Improve testing practices and implement automated testing</h3>
+<h3>Deepen understanding of web performance optimization</h3>
+<h3>Maintain consistent GitHub activity with meaningful contributions</h3>
 </div>
 </div>
 
@@ -177,7 +177,7 @@ Website for searching recipes and adding recipes to your favorites page
 
 > Constantly seeking ways to merge technology with traditional business solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobleon02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobleon02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobleon2117@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobleon.netlify.app/)
 
@@ -189,8 +189,8 @@ Website for searching recipes and adding recipes to your favorites page
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
+    <img src="https://img.shields.io/badge/HTML3-E34F26?style=for-the-badge&logo=html3&logoColor=white" alt="HTML3" height="28"/>
+    <img src="https://img.shields.io/badge/CSS3-1372B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28"/>
   </p>
