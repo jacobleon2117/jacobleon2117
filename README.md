@@ -164,12 +164,6 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 <div class="fun-facts">
 
-> Proud owner of Leon's Mobile Detailing LLC
-
-> Entrepreneurial mindset with a passion for both business and coding
-
-> Constantly seeking ways to merge technology with traditional business solutions
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
 
 </div>
