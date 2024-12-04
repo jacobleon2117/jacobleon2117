@@ -16,7 +16,9 @@
 </div>
 <div>
 <p>
-I'm a full-stack software engineering currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
+I'm a full-stack software engineering currently attending Atlas School in Tulsa,
+expected to graduate in April 2025. With my entrepreneurial spirit and creative 
+mindset, I bring a unique perspective to software development.
 </p>
 </div>
 
@@ -26,6 +28,10 @@ I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 <h3> Currently Learning </h3>
 </summary>
 </ul>
+</div>
+<div class="learning-stack">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
 </div>
 </div>
 
@@ -83,22 +89,8 @@ I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 </div>
 </div>
 
-<div id="toc">
-<div class="about-section">
-<ul align="left" style="list-style: none">
-<p>
-Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
-</p>
-</ul>
-</div>
-</div>
-
-<div id="stack" align="center">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
-</summary>
-</div>
-</div>
 
 - **Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
 - **OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
