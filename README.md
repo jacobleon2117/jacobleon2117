@@ -1,4 +1,5 @@
-<div id="about" align="left" style="list-style: none">
+<div id="about">
+    <ul align="left" style="list-style: none">
   <h1>Hi, I'm Jacob</h1>
 </div>
 
