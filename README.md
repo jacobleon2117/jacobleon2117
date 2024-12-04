@@ -122,7 +122,7 @@ Website for searching recipes and adding recipes to your favorites page
 </ul>
 </div>
 <div class="goals">
-<p><strong> hello </strong>Master TypeScript and implement it in new projects</p>
+<p><h3> - </h3>Master TypeScript and implement it in new projects</p>
 Build and deploy a full-stack application using Next.js
 Improve testing practices and implement automated testing
 Deepen understanding of web performance optimization
