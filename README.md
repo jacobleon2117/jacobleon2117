@@ -113,6 +113,7 @@ Website for searching recipes and adding recipes to your favorites page
 </tr>
 <tr>
 <td>Creating responsive and intuitive user interfaces with React</td>
+<td>Master TypeScript and implement it in new projects</td>
 </tr>
 <tr>
 <td>Implementing clean, maintainable code practices</td>
@@ -129,10 +130,6 @@ Website for searching recipes and adding recipes to your favorites page
 <table>
 </div>
 
-<div class="goals">
-<table>
-<tr>
-<td><h3><strong> Goals for 2025 </strong></h3></td>
 </tr>
 <tr>
 <td>Master TypeScript and implement it in new projects</td>
