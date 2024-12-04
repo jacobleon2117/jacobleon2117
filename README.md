@@ -22,6 +22,22 @@ mindset, I bring a unique perspective to software development.
 </p>
 </div>
 
+<div id="toc" class="current-projects-section">
+<ul align="left" style="list-style: none">
+<summary>
+<h3> Current Projects <h3>
+</summary>
+</ul>
+</div>
+<div class="projects">
+
+- **Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
+- **OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
+- **Atlas School Projects:** Collaborating on various full-stack applications as part of my software engineering education
+
+</div>
+</div>
+
 <div id="toc" class="currently-learning-section">
 <ul align="left" style="list-style: none">
 <summary>
@@ -32,15 +48,6 @@ mindset, I bring a unique perspective to software development.
 <div class="learning-stack">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
-</div>
-</div>
-
-<div id="toc" class="current-projects-section">
-<ul align="left" style="list-style: none">
-<summary>
-<h3> Current Projects <h3>
-</summary>
-</ul>
 </div>
 </div>
 
@@ -88,9 +95,6 @@ mindset, I bring a unique perspective to software development.
 </ul>
 </div>
 </div>
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
 
 - **Study Buddy Application:** Using AI and my Full-Stack engineering knowledge to develop an application that changes the way a student could study
 - **OKTF-1: Scheduling Application:** Designing and developing a custom scheduling solution for Oklahoma Task Force 1's Tulsa Team members
