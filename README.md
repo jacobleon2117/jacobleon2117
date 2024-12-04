@@ -105,13 +105,6 @@ Website for searching recipes and adding recipes to your favorites page
 </div>
 </div>
 
-<div id="toc" class="working-on-section">
-<ul align="left" style="list-style: none">
-<summary>
-<h3> What I'm Working On <h3>
-</summary>
-</ul>
-</div>
 <div class="working-on">
 <table>
 <tr>
@@ -135,13 +128,6 @@ Website for searching recipes and adding recipes to your favorites page
 <table>
 </div>
 
-<div id="toc" class="goals-section">
-<ul align="left" style="list-style: none">
-<summary>
-<h3> Goals for 2024 <h3>
-</summary>
-</ul>
-</div>
 <div class="goals">
 <table>
 
