@@ -9,14 +9,14 @@
 ---
 
 <div id="toc">
-<ul align="left" style="list-style: none">
+<ul align="center" style="list-style: none">
 <summary>
 <h3> About Me </h3>
 </summary>
 </ul>
 </div>
 
-<div align="left">
+<div align="center">
 <p>
 I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 expected to graduate in April 2023. With my entrepreneurial spirit and creative 
@@ -27,14 +27,14 @@ mindset, I bring a unique perspective to software development.
 ---
 
 <div id="toc">
-<ul align="left" style="list-style: none">
+<ul align="center" style="list-style: none">
 <summary>
 <h3> Tech Stack </h3>
 </summary>
 </ul>
 </div>
 
-<div align="left">
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
@@ -48,7 +48,7 @@ mindset, I bring a unique perspective to software development.
 ---
 
 <div id="toc">
-<ul align="left" style="list-style: none">
+<ul align="center" style="list-style: none">
 <summary>
 <h3> Current Projects <h3>
 </summary>
@@ -150,7 +150,7 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 <div id="toc">
-<ul align="left" style="list-style: none">
+<ul align="center" style="list-style: none">
 <summary>
 <h3> Currently Learning </h3>
 </summary>
@@ -165,7 +165,7 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 <div id="toc">
-<ul align="left" style="list-style: none">
+<ul align="center" style="list-style: none">
 <summary>
 <h3> Fun Facts <h3>
 </summary>
@@ -180,7 +180,7 @@ Website for searching recipes and adding recipes to your favorites page
 ---
 
 <div id="toc">
-<ul align="left" style="list-style: none">
+<ul align="center" style="list-style: none">
 <summary>
 <h3> Connect With Me <h3>
 </summary>
