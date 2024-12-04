@@ -1,4 +1,4 @@
-<div id="about">
+<div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
@@ -10,7 +10,7 @@
 
 <br>
 
-<div id="about">
+<div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
