@@ -24,10 +24,6 @@ Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected
 - **Social Media Manager**: A ReactJS application to help small businesses manage their social media presence efficiently
 - **Atlas School Projects**: Collaborating on various full-stack applications as part of my software engineering education
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobleon2117&show_icons=true&theme=radical)
-
 ## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobleon2117&layout=compact&theme=radical)
