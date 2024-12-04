@@ -1,8 +1,8 @@
 <div id="about">
   <ul align="center" style="list-style: none">
-      <h2>
+      <h1>
         Hi, I'm Jacob
-      </h2>
+      </h1>
   </ul>
 </div>
 
