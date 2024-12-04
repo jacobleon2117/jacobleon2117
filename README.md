@@ -19,10 +19,11 @@
 </div>
 
 <div id="toc">
-<div class="about-section">
+<div class="about-section" style="list-style: none">
 <p align="left">
 Full-Stack Software Engineer currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
 </p>
+</div>
 </div>
 
 <div id="about" align="left">
