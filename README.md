@@ -7,8 +7,6 @@ I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 
 I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communication platform bridging patient-provider gaps using Next.js, React, and AI integration.
 
-[![Project Banner](https://via.placeholder.com/600x300?text=Project+Screenshot)](https://github.com/jacobleon2117/patientlink-design)
-
 - **Live Demo:** 
 - **Repository:** https://github.com/jacobleon2117/patientlink-design
 - **Tech:** 
