@@ -34,13 +34,13 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/jacobleon02/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:jacobleon2117@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://jacobleon.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
