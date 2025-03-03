@@ -10,7 +10,6 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
 - **Repository:** https://github.com/jacobleon2117/patientlink-design
 - **Tech:** 
 
-> [Brief quote or highlight about the project]
 
 ## About Me
 
