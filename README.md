@@ -26,13 +26,12 @@ I'm a full-stack software engineering currently attending Atlas School in Tulsa,
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
+### Other Tools & Technologies
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
-
-### Other Tools & Technologies
-
 
 ## GitHub Stats
 
