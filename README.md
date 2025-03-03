@@ -2,7 +2,7 @@
 
 ## Current Project
 
-I'm currently working on **PatientLink** - Design and research documentation for PatientLink AIHC - A HIPAA-compliant healthcare communication platform bridging patient-provider gaps using Next.js, React, and AI integration.
+I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communication platform bridging patient-provider gaps using Next.js, React, and AI integration.
 
 [![Project Banner](https://via.placeholder.com/600x300?text=Project+Screenshot)](https://github.com/jacobleon2117/patientlink-design)
 
