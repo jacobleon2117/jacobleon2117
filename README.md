@@ -7,9 +7,8 @@ I'm a full-stack software engineering currently attending Atlas School in Tulsa,
 
 I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communication platform bridging patient-provider gaps using Next.js, React, and AI integration.
 
-- **Live Demo:** 
 - **Repository:** https://github.com/jacobleon2117/patientlink-design
-- **Tech:** 
+- **Tech:** Next.js, React, Tailwind CSS, JavaScript, Node.js, MongoDB
 
 ## Tech Stack
 
@@ -19,7 +18,10 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
 </p>
 
 ### Other Tools & Technologies
