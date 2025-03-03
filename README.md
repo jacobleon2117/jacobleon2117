@@ -31,10 +31,6 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobleon2117&show_icons=true&theme=radical)](https://github.com/jacobleon2117)
-
 ## Connect With Me
 
 <p align="left">
