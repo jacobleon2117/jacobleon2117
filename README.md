@@ -13,7 +13,7 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
 
 ## About Me
 
-- I'm a full-stack software engineering currently attending Atlas School in Tulsa, expected to graduate in April 2023. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
+I'm a full-stack software engineering currently attending Atlas School in Tulsa, expected to graduate in April 2023. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
 
 ## Tech Stack
 
@@ -51,9 +51,6 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
   </a>
@@ -61,11 +58,3 @@ I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communic
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobleon02)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobleon2117@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobleon.netlify.app/)
-
-</div>
