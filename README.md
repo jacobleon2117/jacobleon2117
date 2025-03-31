@@ -3,13 +3,6 @@
 
 I'm a full-stack software engineering currently attending Atlas School in Tulsa, expected to graduate in April 2025. With my entrepreneurial spirit and creative mindset, I bring a unique perspective to software development.
 
-## Current Project
-
-I'm currently working on **PatientLink** - A HIPAA-compliant healthcare communication platform bridging patient-provider gaps using Next.js, React, and AI integration.
-
-- **Repository:** https://github.com/jacobleon2117/patientlink-design
-- **Tech:** Next.js, React, TypeScript, Tailwind CSS, JavaScript, Node.js, MongoDB
-
 ## Tech Stack
 
 <p align="left">
