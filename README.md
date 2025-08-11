@@ -7,3 +7,5 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jacobleon2117&color=blue&style=for-the-badge)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobleon2117&theme=dark&show_icons=true)
