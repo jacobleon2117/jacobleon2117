@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,typescript,react,nextjs,tailwindcss,nodejs,mysql,postgres,supabase,firebase,docker,netlify&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,typescript,html,css,react,nextjs,tailwindcss,nodejs,mysql,postgres,supabase,firebase,docker,netlify&perline=8" />
   </a>
 </p>
+
