@@ -16,5 +16,9 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://komarev.com">
+    <img src="https://komarev.com/ghpvc/?username=jacobleon2117&color=blue&style=for-the-badge" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=jacobleon2117&color=blue&style=for-the-badge)
