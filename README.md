@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwindcss,firebase,supabase,typescript,html,css,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwindcss,firebase,supabase,typescript,html,css,docker,postgres,&perline=8" />
   </a>
 </p>
