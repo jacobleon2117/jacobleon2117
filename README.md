@@ -10,6 +10,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobleon2117&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/jacobleon2117/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/jacobleon2117/stormneighbor-app)
 
 ![](https://komarev.com/ghpvc/?username=jacobleon2117&color=blue&style=for-the-badge)
