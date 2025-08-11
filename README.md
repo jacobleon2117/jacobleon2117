@@ -6,8 +6,14 @@
   </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=stormneighbor-app)](https://github.com/jacobleon2117/stormneighbor-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=OK-TF1-app)](https://github.com/jacobleon2117/OK-TF1-app)
+<p align="center">
+  <a href="https://github.com/jacobleon2117/stormneighbor-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=stormneighbor-app" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jacobleon2117/OK-TF1-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=OK-TF1-app" />
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=jacobleon2117&color=blue&style=for-the-badge)
