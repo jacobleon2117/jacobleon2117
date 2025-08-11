@@ -1,1 +1,0 @@
-![](https://komarev.com/ghpvc/?jacobleon2117)
