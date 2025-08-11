@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobleon2117&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=stormneighbor-app)](https://github.com/jacobleon2117/stormneighbor-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacobleon2117&repo=OK-TF1-app)](https://github.com/jacobleon2117/OK-TF1-app)
