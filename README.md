@@ -10,9 +10,9 @@ Full Stack Developer building web applications with modern technologies.
 </p>
 Connect
 
-Portfolio: jacobleon.netlify.app
-LinkedIn: linkedin.com/in/jacobleon02
-Email: jacobleon2117@gmail.com
+* Portfolio: jacobleon.netlify.app
+* LinkedIn: linkedin.com/in/jacobleon02
+* Email: jacobleon2117@gmail.com
 
 
 Currently working on building applications that solve real-world problems.
