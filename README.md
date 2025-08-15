@@ -15,7 +15,3 @@ Full Stack Developer focused on building scalable web applications. I enjoy work
 - Portfolio: [jacobleon.netlify.app](https://jacobleon.netlify.app)
 - LinkedIn: [linkedin.com/in/jacobleon02](https://linkedin.com/in/jacobleon02)
 - Email: jacobleon2117@gmail.com
-
----
-
-*Currently working on building applications that solve real-world problems.*
