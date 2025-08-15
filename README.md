@@ -1,6 +1,6 @@
 # Hey, I'm Jacob 👋
 
-Full Stack Developer building web applications with modern technologies.
+Full Stack Developer focused on building scalable web applications. I enjoy working across the entire stack - from crafting responsive user interfaces with React and TypeScript to developing robust APIs and managing databases. Always learning and solving problems through code.
 
 ## Tech Stack
 <p align="center">
