@@ -1,6 +1,7 @@
-Hey, I'm Jacob 👋
+#Hey, I'm Jacob 👋
 Full Stack Developer building web applications with modern technologies.
-Tech Stack
+
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,js,typescript,html,css,react,nextjs,tailwindcss,nodejs,mysql,postgres,supabase,firebase,docker,netlify&perline=20" />
